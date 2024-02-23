@@ -1,2 +1,2 @@
 # about_me
-This repository is for Home Works
+This repository is for Home Works.
